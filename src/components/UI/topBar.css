@@ -1,0 +1,26 @@
+.TopBar {
+    position: absolute;
+    display: flex;
+    width: 100vw;
+    height: 5vh;
+    background-color: blueviolet;
+    top: 0;
+    left: 0;
+    z-index: 99;
+}
+
+.MenuButton {
+    width: 4.5vh;
+    height: 4vh;
+    margin: 5px 10px;
+}
+
+.principalTitle {
+    margin-top: 5px;
+    padding-left: 40%;
+    padding-right: 20%;
+    justify-content: center;
+    color: yellow;
+    font-size: 30px;
+    font-family: Verdana, sans-serif;
+}

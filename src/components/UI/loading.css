@@ -1,0 +1,15 @@
+.loadScreen {
+    background-color: white;
+    position: absolute;
+    z-index: 1;
+    top: 0vw;
+    height: 100vw;
+    width: 100vw;
+    opacity: 0.9;
+}
+
+.loadText {
+    padding-top: 20vw;
+    padding-left: 44vw;
+    font-size: 50px;
+}

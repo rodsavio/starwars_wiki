@@ -1,0 +1,15 @@
+.PageList {
+    background-color: dodgerblue;
+    padding-top: 5.2vh;
+    margin-left: -10px;
+    text-align: center;
+    font-size: 2vh;
+    font-family: Verdana, sans-serif;
+    width: 100.1vw;
+    height: 92.3vh;
+}
+
+.ListCards {
+    display: flex;
+    flex-wrap: wrap;
+}

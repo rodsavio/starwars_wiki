@@ -1,0 +1,28 @@
+.pageNumbers {
+    text-align: center;
+    padding: 10px;
+}
+
+.pageButton {
+    display: inline-block;
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.pageButton:hover {
+    background-color: black;
+    color: white;
+    border-bottom: solid yellow;
+}
+
+.currentPage {
+    background-color: #ACAF00;
+}
